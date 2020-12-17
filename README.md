@@ -1,4 +1,8 @@
-## Projeto Avaliações.
+![GitHub package.json version](https://img.shields.io/github/package-json/v/jefferson1984/projeto-accordion)
+
+![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/projeto-accordion)
+
+## Projeto Accordion.
 
 Objetivo é utilização do react em uma simples aplicação e utilizar alguns conceitos para estudos.
 
@@ -14,13 +18,13 @@ Objetivo é utilização do react em uma simples aplicação e utilizar alguns c
 
 ## Hooks
 
-useState useEffect e Condicional
+useState e Condicional
 
 ## Imagem do Projeto
 
-[projeto-avaliacoes.netlify.app](https://projeto-avaliacoes.netlify.app/)
+[projeto-accordion.netlify.app](https://projeto-accordion.netlify.app/)
 
-<img src="https://github.com/jefferson1984/projeto-avaliacoes/blob/main/avaliacoes2.png">
+<img src="https://github.com/jefferson1984/projeto-accordion/blob/main/accordion2.png">
 
 ## Reproduzir
 
